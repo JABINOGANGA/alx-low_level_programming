@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - Inserts values
- * Return: 0 (code is valid)
+ *  main - Inserts values
+ *  Return: 0 (code is valid)
  */
 int main(void)
 {
@@ -18,4 +18,3 @@ int main(void)
         printf("Size of a float: %lu byte(s)\n", sizeof(n));
         return (0);
 }
-
