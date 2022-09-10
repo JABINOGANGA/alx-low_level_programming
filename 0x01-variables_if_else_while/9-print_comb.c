@@ -12,7 +12,7 @@ int main(void)
 
 	for (al = 48; al <= 57; al++)
 	{
-	putchar(ch);
+	putchar(al);
 	if (al != 57)
 	{
 	putchar(44);
