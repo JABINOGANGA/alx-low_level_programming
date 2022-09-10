@@ -4,7 +4,7 @@
 /**
 * main - Prints the alphabet in lowercase
 *
-* Return: 0 if success
+* Return: 0 for success
 */
 int main(void)
 {
@@ -13,7 +13,7 @@ int main(void)
 	while (l <= 'z')
 	{
 	putchar(l);
-	d++;
+	l++;
 	}
 	putchar('\n');
 	return (0);
