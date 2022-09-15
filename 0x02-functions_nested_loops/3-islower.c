@@ -2,7 +2,7 @@
 
 /**
  * _islower - where the excecution begins
- *
+ * @al: the varaible character
  *
  * Description: checking for lower characters in the ASCII table 
  *
