@@ -1,20 +1,20 @@
 #include "main.h"
 
 /**
- * alphabet_out - where the excecution begins
+ * print_alphabet - where the excecution begins
  *
  * Description: the function prints alphabets in lower case
  *
  * Return:has no return value
  */
 
-void alphabet_out()
+void print_alphabet(void)
 {
-	char al;
+	char c;
 
-	for (al = 'a'; al <= 'z'; al++)
+	for (c = 'a'; c <= 'z'; c++)
 	{
-		_putchar(al);
+		_putchar(c);
 	}
 	_putchar('\n');
 }

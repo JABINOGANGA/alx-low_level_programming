@@ -14,7 +14,3 @@ int add(int a, int b)
 
 	return (total);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
