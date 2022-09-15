@@ -3,6 +3,8 @@
 /**
  * print_to_98 - where excecution begins
  *
+ * @n : a natural number
+ *
  * Description: the function prints all natural number
  *
  * Return: no value

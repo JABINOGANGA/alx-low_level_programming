@@ -3,7 +3,7 @@
 /**
  * _isalpha - where excecution begins
  *
- *
+ * @al: varaible character
  * Description: locating each and every alphabets in the ASCII table
  *
  * Return: 1 if true and 0 if false

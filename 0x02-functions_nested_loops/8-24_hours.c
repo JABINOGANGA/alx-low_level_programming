@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * jack_bauer - print every minute of the day
+ * jack_bauer - where the excecution starts
+ *
+ * Description : prints every minute of the day
+ *
  * Return: no value
- *
- *
  */
 
 void jack_bauer(void)

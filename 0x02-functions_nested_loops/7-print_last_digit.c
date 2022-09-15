@@ -2,8 +2,11 @@
 
 /**
  * print_last_digit - prints the last digit of a number
- * @n: argument utility
- * Return: integer value
+ *
+ * @n: variable
+ * Description: prints the last digit of the given value
+ *
+ * Return: the last digit
  */
 
 int print_last_digit(int n)
