@@ -2,15 +2,15 @@
 /**
  * _isupper -Excecution of code begins here
  *
- * @l: character
+ * @c: character
  *
  * Return: 1 if true  and -1 if false
  */
 
-int _isupper(int l)
+int _isupper(int c)
 {
 
-	if (l >= 'A' && l <= 'Z')
+	if (c >= 'A' && c <= 'Z')
 		return (1);
 	else
 		return (0);
