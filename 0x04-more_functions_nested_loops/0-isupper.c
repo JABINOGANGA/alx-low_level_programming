@@ -2,19 +2,16 @@
 /**
  * _isupper -Excecution of code begins here
  *
- * @c: character
+ * @l: character
  *
  * Return: 1 if true  and -1 if false
  */
 
-int _isupper(int c)
+int _isupper(int l)
 {
-	if (c >= 65 && c <= 90)
-	{
+
+	if (l >= 'A' && l <= 'Z')
 		return (1);
-	}
 	else
-	{
 		return (0);
-	}
 }

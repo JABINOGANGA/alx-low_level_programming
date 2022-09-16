@@ -3,7 +3,7 @@
 /**
  * print_square - where execution starts
  *
- * @size: value inserted
+ * @m: value inserted
  *
  * Description: the function will print a straight line on the terminal
  *
