@@ -1,4 +1,4 @@
-#include "lists.h"
+#include "list.h"
 
 /**
  * free_list - frees a list
